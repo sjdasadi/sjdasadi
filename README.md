@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Sajede!
 
-**NLP Engineer | LLM & RAG Specialist | AI Enthusiast**
+**AI Engineer | LLM & RAG Specialist | AI Enthusiast**
 
 I build intelligent systems that understand and process Persian language and medical data. Passionate about making AI more accessible and accurate for real-world applications.
 
