@@ -46,12 +46,3 @@
 | **[Video NSFW Detector](https://github.com/sjdasadi/-video-nsfw-detector)** | تشخیص محتوای نامناسب در ویدیو | Python, Computer Vision, Deep Learning |
 
 ---
-
-### 📝 Latest Activity
-<!-- GitHub automatically shows your recent activity below -->
-
----
-
-<p align="center">
-  <em>Always learning and building the future with AI </em>
-</p>
