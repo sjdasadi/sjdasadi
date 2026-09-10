@@ -1,9 +1,8 @@
 # 👋 Hi there, I'm Sajede!
 
-**AI Engineer | LLM & RAG Specialist | AI Enthusiast**
+**AI Engineer |Image Processing & LLM & RAG Specialist | AI Enthusiast**
 
-I build intelligent systems that understand and process Persian language and medical data. Passionate about making AI more accessible and accurate for real-world applications.
-
+Machine Learning and AI Engineer with over 3 years of specialized experience in computer vision and deep learning, with a proven track record in leading and managing AI projects from ideation to final deployment. Currently developing skills and practical experience in Large Language Models (LLM) and Agentic AI systems through designing and implementing intelligent agents based on LangChain, LangGraph, and RAG. Capable in technical team leadership and rapidly learning emerging technologies.
 ---
 
 ### 🔭 I’m currently working on:
