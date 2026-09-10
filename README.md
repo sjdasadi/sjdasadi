@@ -43,4 +43,4 @@ I build intelligent systems that understand and process Persian language and med
 - 📧 Email: s.asadi5125@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/feed/
 
-> *"The best way to predict the future is to invent it."* – Alan Kay
+
