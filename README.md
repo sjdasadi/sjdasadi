@@ -5,16 +5,16 @@
 ---
 
 ### 🔭 I'm Currently Working On:
-- 🧠 **Agentic AI Systems** - Designing and implementing intelligent agents with LangChain & LangGraph
-- 🔍 **RAG Pipelines** - Developing Retrieval-Augmented Generation systems
-- 🇮🇷 **Persian NLP** - Natural Language Processing for Persian language with LLMs
-- 👁️ **Computer Vision** - Advanced deep learning models for visual understanding
+-  **Agentic AI Systems** - Designing and implementing intelligent agents with LangChain & LangGraph
+-  **RAG Pipelines** - Developing Retrieval-Augmented Generation systems
+-  **Persian NLP** - Natural Language Processing for Persian language with LLMs
+-  **Computer Vision** - Advanced deep learning models for visual understanding
 
 ### 💼 Core Expertise:
-- 👁️ **Computer Vision & Deep Learning** - 3+ years of specialized experience
-- 🤖 **AI Project Management** - From ideation to production deployment
--  **LLM & Agentic AI** - Building intelligent autonomous systems
-- 👥 **Technical Leadership** - Leading and mentoring technical teams
+-  **Computer Vision & Deep Learning** - 3+ years of specialized experience
+-  **AI Project Management** - From ideation to production deployment
+- **LLM & Agentic AI** - Building intelligent autonomous systems
+-  **Technical Leadership** - Leading and mentoring technical teams
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -25,8 +25,8 @@
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### 📫 Connect With Me:
-- 📧 Email: s.asadi5125@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/sajede-asadi/
+-  Email: s.asadi5125@gmail.com
+-  LinkedIn: https://www.linkedin.com/in/sajede-asadi/
 
 ---
 
